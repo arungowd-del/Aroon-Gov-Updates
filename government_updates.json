@@ -1,200 +1,893 @@
 [
   {
-    "source": "NMC Public Notices",
-    "title": "15/07/2026 - NEET-SS admitted student data for AY 2023–24.",
+    "source": "NMC",
+    "title": "15/07/2026 - NEET-SS admitted student data for AY 2023\u201324.",
     "url": "https://www.nmc.org.in/wp-content/themes/twentyfourteen/pdf/SS 2023-24.pdf",
-    "date": "2026-07-15",
-    "category": "Education / Examination",
-    "document_type": "PDF",
-    "collected_at": "2026-08-12T01:37:48.530565+00:00"
+    "date": "15 Jul 2026",
+    "iso_date": "2026-07-15T00:00:00",
+    "category": "Education",
+    "type": "PDF"
   },
   {
-    "source": "NMC Public Notices",
+    "source": "NMC",
+    "title": "\u092d\u093e\u0930\u0924 \u0938\u0930\u0915\u093e\u0930 | Government of India",
+    "url": "https://www.india.gov.in/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Employee Corner",
+    "url": "https://employee.nmc.org.in/ActivitiWebClient/login",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0906\u092f\u0941\u0930\u094d\u0935\u093f\u091c\u094d\u091e\u093e\u0928 \u0906\u092f\u094b\u0917 NATIONAL MEDICAL COMMISSION A statutory body under the Ministry of Health & Family Welfare",
+    "url": "https://www.nmc.org.in",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "About NMC",
+    "url": "https://www.nmc.org.in/about-nmc/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Introduction",
+    "url": "https://www.nmc.org.in/about-nmc/introduction/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Functions of NMC",
+    "url": "https://www.nmc.org.in/about-nmc/functions-of-nmc/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Composition",
+    "url": "https://www.nmc.org.in/composition/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Incumbency of the Commission",
+    "url": "https://www.nmc.org.in/incumbency-of-the-commission/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Autonomous Boards",
+    "url": "https://www.nmc.org.in/autonomous-boards/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Under-Graduate Medical Education Board",
+    "url": "https://www.nmc.org.in/autonomous-boards/under-graduate-medical-education-board/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Post-Graduate Medical Education Board",
+    "url": "https://www.nmc.org.in/autonomous-boards/post-graduate-medical-education-board/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Medical Assessment & Rating Board",
+    "url": "https://www.nmc.org.in/autonomous-boards/medical-assessment-rating-board/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Ethics & Medical Registration Board",
+    "url": "https://www.nmc.org.in/autonomous-boards/ethics-medical-registration-board/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Composition Of MAC",
+    "url": "https://www.nmc.org.in/composition-of-mac/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Members of Medical Advisory Council",
+    "url": "https://www.nmc.org.in/about-nmc/medical-advisory-council/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Details of Officers",
+    "url": "https://www.nmc.org.in/details-of-officers/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Contact Us",
+    "url": "https://www.nmc.org.in/contact-us/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "NMC Act, 2019 English",
+    "url": "https://www.nmc.org.in/nmc-act/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "NMC Act, 2019 Hindi",
+    "url": "https://www.nmc.org.in/nmc-act-2019-hindi/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
     "title": "FAQ on NMC Act, 2019",
     "url": "https://www.nmc.org.in/wp-content/uploads/2026/03/FAQ_NMCACT_pdf.pdf",
     "date": null,
+    "iso_date": "0000-00-00",
     "category": "Notification",
-    "document_type": "PDF",
-    "collected_at": "2026-08-12T01:37:48.522969+00:00"
+    "type": "PDF"
   },
   {
-    "source": "NMC Public Notices",
+    "source": "NMC",
+    "title": "The Indian Medical Degree Act, 1916",
+    "url": "https://www.nmc.org.in/acts-amendments/the-indian-medical-degree-act-1916/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "The Indian Medical Council Act, 1956",
+    "url": "https://www.nmc.org.in/acts-amendments/the-indian-medical-council-act-1956/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "The First Schedule of IMC Act",
+    "url": "https://www.nmc.org.in/acts-amendments/the-first-schedule-of-imc-act/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "The Second Schedule of IMC Act",
+    "url": "https://www.nmc.org.in/acts-amendments/the-second-schedule-of-imc-act/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "The Third Schedule of IMC Act",
+    "url": "https://www.nmc.org.in/acts-amendments/the-third-schedule-of-imc-act/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Indian Medical Council Rules, 1957",
+    "url": "https://www.nmc.org.in/rules-regulations/indian-medical-council-rules-1957/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Rules & Regulations, NMC",
+    "url": "https://www.nmc.org.in/rules-regulations-nmc/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Policy",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Post Graduate Committee Rules, 1961",
+    "url": "https://www.nmc.org.in/rules-regulations/post-graduate-committee-rules-1961/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Students Admitted in Excess Regulations, 1997",
+    "url": "https://www.nmc.org.in/rules-regulations/students-admitted-in-excess-regulations-1997/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Policy",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Graduate Medical Education Regulations, 1997",
+    "url": "https://www.nmc.org.in/rules-regulations/graduate-medical-education-regulations-1997/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Policy",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
     "title": "Graduate Medical Education Regulations 1997 (Amendment Dated 04.11.2019 (UGMEB)",
     "url": "https://www.nmc.org.in/wp-content/uploads/2026/02/19GraduateMedicalEducationRegulations1997Amendment04112019.pdf",
     "date": null,
-    "category": "Policy / Regulation",
-    "document_type": "PDF",
-    "collected_at": "2026-08-12T01:37:48.524882+00:00"
+    "iso_date": "0000-00-00",
+    "category": "Policy",
+    "type": "PDF"
   },
   {
-    "source": "NMC Public Notices",
+    "source": "NMC",
+    "title": "The MCI (Conduct of Election) Regulations, 1998",
+    "url": "https://www.nmc.org.in/rules-regulations/the-mci-conduct-of-election-regulations-1998/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Policy",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Teachers Eligibility Qualifications, 1998",
+    "url": "https://www.nmc.org.in/rules-regulations/teachers-eligibility-qualifications-1998/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Establishment of Medical College Regulations, 1999",
+    "url": "https://www.nmc.org.in/rules-regulations/establishment-of-medical-college-regulations-1999/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Policy",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
     "title": "Establishment of Medical College Regulation,(Amendment), 2020 Dated 28.10.2020 (MARB)",
     "url": "https://www.nmc.org.in/wp-content/uploads/2026/02/2EstablishmentofMedicalCollegeRegulationsAmendment2022NMC.pdf",
     "date": null,
-    "category": "Policy / Regulation",
-    "document_type": "PDF",
-    "collected_at": "2026-08-12T01:37:48.525364+00:00"
+    "iso_date": "0000-00-00",
+    "category": "Policy",
+    "type": "PDF"
   },
   {
-    "source": "NMC Public Notices",
+    "source": "NMC",
+    "title": "Establishment Of Medical College Regulations (Amendment), 2022 Dated 13.12.2022 (MARB)",
+    "url": "http://Establishment%20of%20Medical%20College%20Regulation,(Amendment),%202020%20Dated%2028.10.2020%20(MARB)",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Policy",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
     "title": "Minimum requirement for 50 admissions",
     "url": "https://www.nmc.org.in/wp-content/uploads/2017/10/Minimum-Standard-Requirements-for-50-Admissions.pdf",
     "date": null,
-    "category": "Education / Examination",
-    "document_type": "PDF",
-    "collected_at": "2026-08-12T01:37:48.525735+00:00"
+    "iso_date": "0000-00-00",
+    "category": "Education",
+    "type": "PDF"
   },
   {
-    "source": "NMC Public Notices",
+    "source": "NMC",
     "title": "Minimum requirement for 100 admissions",
     "url": "https://www.nmc.org.in/wp-content/uploads/2017/10/Minimum-Standard-Requirements-for-100-Admissions.pdf",
     "date": null,
-    "category": "Education / Examination",
-    "document_type": "PDF",
-    "collected_at": "2026-08-12T01:37:48.525814+00:00"
+    "iso_date": "0000-00-00",
+    "category": "Education",
+    "type": "PDF"
   },
   {
-    "source": "NMC Public Notices",
+    "source": "NMC",
     "title": "Minimum requirement for 150 admissions",
     "url": "https://www.nmc.org.in/wp-content/uploads/2017/10/Minimum-Standard-Requirements-for-150-Admissions.pdf",
     "date": null,
-    "category": "Education / Examination",
-    "document_type": "PDF",
-    "collected_at": "2026-08-12T01:37:48.525888+00:00"
+    "iso_date": "0000-00-00",
+    "category": "Education",
+    "type": "PDF"
   },
   {
-    "source": "NMC Public Notices",
+    "source": "NMC",
     "title": "Minimum requirement for 200 admissions",
     "url": "https://www.nmc.org.in/wp-content/uploads/2017/10/STANDARD-FOR-200.pdf",
     "date": null,
-    "category": "Education / Examination",
-    "document_type": "PDF",
-    "collected_at": "2026-08-12T01:37:48.525968+00:00"
+    "iso_date": "0000-00-00",
+    "category": "Education",
+    "type": "PDF"
   },
   {
-    "source": "NMC Public Notices",
+    "source": "NMC",
     "title": "Minimum requirement for 250 admissions",
     "url": "https://www.nmc.org.in/wp-content/uploads/2017/10/STANDARD-FOR-250.pdf",
     "date": null,
-    "category": "Education / Examination",
-    "document_type": "PDF",
-    "collected_at": "2026-08-12T01:37:48.526046+00:00"
+    "iso_date": "0000-00-00",
+    "category": "Education",
+    "type": "PDF"
   },
   {
-    "source": "NMC Public Notices",
+    "source": "NMC",
     "title": "Phasewise requirements for LOI, LOP, renewals",
     "url": "https://www.nmc.org.in/wp-content/uploads/2017/10/LOILOPRenewal.pdf",
     "date": null,
+    "iso_date": "0000-00-00",
     "category": "Notification",
-    "document_type": "PDF",
-    "collected_at": "2026-08-12T01:37:48.526137+00:00"
+    "type": "PDF"
   },
   {
-    "source": "NMC Public Notices",
+    "source": "NMC",
+    "title": "MCI Regulations, 2000",
+    "url": "https://www.nmc.org.in/rules-regulations/mci-regulations-2000/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Policy",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Opening of a New or Higher Course of Study, 2000",
+    "url": "https://www.nmc.org.in/rules-regulations/opening-of-a-new-or-higher-course-of-study-2000/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "P.G. Medical Education Regulations, 2000",
+    "url": "https://www.nmc.org.in/rules-regulations/p-g-medical-education-regulations-2000/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Policy",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Screening Test Regulations, 2002",
+    "url": "https://www.nmc.org.in/rules-regulations/screening-test-regulations-2002/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Policy",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Eligibility Certificate Regulations, 2002",
+    "url": "https://www.nmc.org.in/rules-regulations/eligibility-certificate-regulations-2002/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Policy",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Code of Medical Ethics Regulations, 2002",
+    "url": "https://www.nmc.org.in/rules-regulations/code-of-medical-ethics-regulations-2002/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Policy",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Election of Students Union Regulations, 2009",
+    "url": "https://www.nmc.org.in/rules-regulations/election-of-students-union-regulations-2009/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Policy",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Prevention of Ragging Regulation, 2009",
+    "url": "https://www.nmc.org.in/rules-regulations/prevention-of-ragging-regulation-2009/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Policy",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "College and Course Search",
+    "url": "https://www.nmc.org.in/information-desk/college-and-course-search/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Indian Medical Register",
+    "url": "https://www.nmc.org.in/information-desk/indian-medical-register/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "State Medical Councils",
+    "url": "https://www.nmc.org.in/information-desk/state-medical-councils/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Teaching Faculty",
+    "url": "https://www.nmc.org.in/information-desk/teaching-faculty/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "List of College Teaching MBBS",
+    "url": "https://www.nmc.org.in/information-desk/for-students-to-study-in-india/list-of-college-teaching-mbbs/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "List of College Teaching PG Courses",
+    "url": "https://www.nmc.org.in/information-desk/list-of-college-teaching-pg-courses/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "For Students to Study Abroad",
+    "url": "https://www.nmc.org.in/information-desk/for-students-to-study-in-abroad",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "UG Curriculum",
+    "url": "https://www.nmc.org.in/information-desk/for-colleges/ug-curriculum/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "PG Curriculum",
+    "url": "https://www.nmc.org.in/information-desk/for-colleges/pg-curricula-2/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Procedure to Start New College",
+    "url": "https://www.nmc.org.in/information-desk/for-colleges/procedure-to-start-new-college/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "National Faculty Development Programme",
+    "url": "https://www.nmc.org.in/information-desk/national-faculty-development-programme-new/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "To Start a New Course/Increase of Seats",
+    "url": "https://www.nmc.org.in/information-desk/for-colleges/procedure-to-increase-admission-capacity/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Fees for Various Inspection",
+    "url": "https://www.nmc.org.in/information-desk/for-colleges/fees-for-various-inspection/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Download application form, NMC",
+    "url": "https://www.nmc.org.in/information-desk/download-application-forms-nmc/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Circulars/Public Notices, NMC",
+    "url": "https://www.nmc.org.in/circulars-and-public-notices-nmc/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Policy",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Circulars/Public Notices, Erstwhile MCI",
+    "url": "https://www.nmc.org.in/information-desk/circularspublic-notices/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Policy",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "NAP-AMR (National Action Plan on Antimicrobial Resistance)",
+    "url": "https://www.nmc.org.in/national-action-plan-on-antimicrobial-resistance",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Media Room",
+    "url": "https://www.mciindia.org/CMS/media-room/advertisements/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "News and Event, NMC",
+    "url": "https://www.nmc.org.in/news-and-event-nmc/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "News and Event, Erstwhile MCI",
+    "url": "https://www.nmc.org.in/media-room/news-and-event/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "E-Gazette NMC",
+    "url": "https://www.nmc.org.in/e-gazette/e-gazette-nmc",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "E-Gazette MCI",
+    "url": "https://www.nmc.org.in/e-gazette/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Cyber Safety Awareness Session, 17.01.2025",
+    "url": "https://www.nmc.org.in/ape_gallery/cyber-safety-awareness-session/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Vigilance Awareness Campaign & Week, 2024",
+    "url": "https://www.nmc.org.in/ape_gallery/vigilance-awareness-week/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Integrity Pledge, 06.11.2023",
+    "url": "https://www.nmc.org.in/ape_gallery/integrity-pledge-06-11-2023/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Vasant Utsav at NMC",
+    "url": "https://www.nmc.org.in/ape_gallery/vasant-utsav-at-nmc/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Integrity Pledge",
+    "url": "https://www.nmc.org.in/ape_gallery/integrity-pledge/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Activities In UGMEB",
+    "url": "https://www.nmc.org.in/bwg_gallery/activities-in-ugmeb/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
     "title": "CPIO Order",
     "url": "https://www.nmc.org.in/wp-content/uploads/2024/03/Order%20reg%20CPIOs%20and%20FAAs%20in%20NMC_0001.pdf",
     "date": null,
-    "category": "Policy / Regulation",
-    "document_type": "PDF",
-    "collected_at": "2026-08-12T01:37:48.528776+00:00"
+    "iso_date": "0000-00-00",
+    "category": "Policy",
+    "type": "PDF"
   },
   {
-    "source": "NMC Public Notices",
+    "source": "NMC",
     "title": "Details of CPIOs and First Appellate Authorities in NMC/Boards",
     "url": "https://www.nmc.org.in/wp-content/uploads/2026/08/Office-order-CPIO-transfer.pdf",
     "date": null,
+    "iso_date": "0000-00-00",
     "category": "Notification",
-    "document_type": "PDF",
-    "collected_at": "2026-08-12T01:37:48.528884+00:00"
+    "type": "PDF"
   },
   {
-    "source": "NMC Public Notices",
+    "source": "NMC",
+    "title": "Right to Information",
+    "url": "https://www.nmc.org.in/acts-amendments/right-to-information/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Posh Act 2013,  and Composition of ICC Under Post Act, 2013",
+    "url": "https://www.nmc.org.in/posh-act-2013-and-composition-of-icc-under-post-act-2013/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Publications",
+    "url": "https://www.nmc.org.in/publications/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
     "title": "NMC ANNUAL 2024_25_ENGLISH",
     "url": "https://www.nmc.org.in/wp-content/themes/twentyfourteen/pdf/Annual%20Report%20of%20National%20Medical%20Commision%20(2024-25)%20English%20version_compressed_compressed_11zon.pdf",
     "date": null,
+    "iso_date": "0000-00-00",
     "category": "Notification",
-    "document_type": "PDF",
-    "collected_at": "2026-08-12T01:37:48.529182+00:00"
+    "type": "PDF"
   },
   {
-    "source": "NMC Public Notices",
+    "source": "NMC",
     "title": "NMC ANNUAL 2024_25_HINDI",
     "url": "https://www.nmc.org.in/wp-content/themes/twentyfourteen/pdf/Annual-Report-of-National-Medical-Commission-2024-25-Hindi-version.pdf",
     "date": null,
+    "iso_date": "0000-00-00",
     "category": "Notification",
-    "document_type": "PDF",
-    "collected_at": "2026-08-12T01:37:48.529249+00:00"
+    "type": "PDF"
   },
   {
-    "source": "NMC Public Notices",
+    "source": "NMC",
     "title": "NMC ANNUAL 2023_24_ENGLISH",
     "url": "https://www.nmc.org.in/wp-content/uploads/2024/03/NMC_ANNUAL_2023_24_ENGLISH.pdf",
     "date": null,
+    "iso_date": "0000-00-00",
     "category": "Notification",
-    "document_type": "PDF",
-    "collected_at": "2026-08-12T01:37:48.529311+00:00"
+    "type": "PDF"
   },
   {
-    "source": "NMC Public Notices",
+    "source": "NMC",
     "title": "NMC ANNUAL 2023_24_HINDI",
     "url": "https://www.nmc.org.in/wp-content/uploads/2024/03/NMC_ANNUAL_2023_24_HINDI.pdf",
     "date": null,
+    "iso_date": "0000-00-00",
     "category": "Notification",
-    "document_type": "PDF",
-    "collected_at": "2026-08-12T01:37:48.529373+00:00"
+    "type": "PDF"
   },
   {
-    "source": "NMC Public Notices",
+    "source": "NMC",
     "title": "NMC ANNUAL 2022-23_ENGLISH",
     "url": "https://www.nmc.org.in/wp-content/uploads/2024/03/NMC%20ANNUAL%202022-23_ENGLISH.pdf",
     "date": null,
+    "iso_date": "0000-00-00",
     "category": "Notification",
-    "document_type": "PDF",
-    "collected_at": "2026-08-12T01:37:48.529439+00:00"
+    "type": "PDF"
   },
   {
-    "source": "NMC Public Notices",
+    "source": "NMC",
     "title": "NMC ANNUAL 2022-23_HINDI",
     "url": "https://www.nmc.org.in/wp-content/uploads/2024/03/NMC%20ANNUAL%202022-23_HINDI.pdf",
     "date": null,
+    "iso_date": "0000-00-00",
     "category": "Notification",
-    "document_type": "PDF",
-    "collected_at": "2026-08-12T01:37:48.529502+00:00"
+    "type": "PDF"
   },
   {
-    "source": "NMC Home",
-    "title": "Read More »",
-    "url": "https://nmc.org.in/wp-content/uploads/2026/02/ChairmanMessageforNMCWebsite.pdf",
+    "source": "NMC",
+    "title": "E-Compendium of NMC 2020-2023",
+    "url": "https://www.nmc.org.in/e-compendium-of-nmc-2020-2023/",
     "date": null,
+    "iso_date": "0000-00-00",
     "category": "Notification",
-    "document_type": "PDF",
-    "collected_at": "2026-08-12T01:37:50.424859+00:00"
+    "type": "Web"
   },
   {
-    "source": "NMC Home",
-    "title": "Message from the Chairman",
-    "url": "https://www.nmc.org.in/wp-content/uploads/2026/02/Messageforthechairman.pdf",
+    "source": "NMC",
+    "title": "E-Compendium of NMC 2024",
+    "url": "https://www.nmc.org.in/e-compendium-of-nmc-2024",
     "date": null,
+    "iso_date": "0000-00-00",
     "category": "Notification",
-    "document_type": "PDF",
-    "collected_at": "2026-08-12T01:37:50.425053+00:00"
+    "type": "Web"
   },
   {
-    "source": "NMC Home",
-    "title": "Appeal by Chairman NMC on Hindi Divas",
-    "url": "https://www.nmc.org.in/wp-content/uploads/2025/09/Appeal_by_Chairman_Hindi_Divas.pdf",
+    "source": "NMC",
+    "title": "UG \u2013 MSMER (2025-26)",
+    "url": "https://msmer.nmc.org.in/public-2025-26/performaAdminDetails25-26",
     "date": null,
+    "iso_date": "0000-00-00",
     "category": "Notification",
-    "document_type": "PDF",
-    "collected_at": "2026-08-12T01:37:50.425216+00:00"
+    "type": "Web"
   },
   {
-    "source": "NMC Home",
-    "title": "Details of Stipend paid by Medical Colleges for the Undergraduate MBBS course",
-    "url": "https://www.nmc.org.in/wp-content/themes/twentyfourteen/pdf/Stipend Detail List.pdf",
+    "source": "NMC",
+    "title": "UG \u2013 MSMER (2024-25)",
+    "url": "https://msmer.nmc.org.in/public/performaAdminDetails",
     "date": null,
+    "iso_date": "0000-00-00",
     "category": "Notification",
-    "document_type": "PDF",
-    "collected_at": "2026-08-12T01:37:50.426218+00:00"
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Related Links",
+    "url": "https://www.nmc.org.in/related-links/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Grievances",
+    "url": "https://www.nmc.org.in/grievances/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "@NMC_bharat",
+    "url": "https://twitter.com/NMC_bharat?ref_src=twsrc%5Etfw",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Disclaimer",
+    "url": "https://www.nmc.org.in/disclaimer/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
+  },
+  {
+    "source": "NMC",
+    "title": "Terms of Use",
+    "url": "https://www.nmc.org.in/terms-of-use/",
+    "date": null,
+    "iso_date": "0000-00-00",
+    "category": "Notification",
+    "type": "Web"
   }
 ]
